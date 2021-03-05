@@ -32,6 +32,6 @@
 
 <img src ="https://user-images.githubusercontent.com/67107675/110054598-b9c60800-7d9e-11eb-8d43-89916bf8b2c2.png" width="50%" height="50%"> 
 
-## 2. Code (Pytorch)
-### 1) [Model Implementations](https://colab.research.google.com/github/sejin-sim/Faster_R-CNN_Object_Detection/blob/main/Faster_R-CNN_Implementations_by_Pytorch.ipynb) 
-### 2) [Model Carry out](https://colab.research.google.com/github/sejin-sim/Faster_R-CNN_Object_Detection/blob/main/Faster_R-CNN_Object_Detection.ipynb)
+## 2. Code
+### 1) [PyTorch implementation of Faster R-CNN model](https://colab.research.google.com/github/sejin-sim/Faster_R-CNN_Object_Detection/blob/main/Faster_R-CNN_Implementations_by_Pytorch.ipynb) 
+### 2) [Faster R-CNN Object Detection with PyTorch](https://colab.research.google.com/github/sejin-sim/Faster_R-CNN_Object_Detection/blob/main/Faster_R-CNN_Object_Detection.ipynb)
